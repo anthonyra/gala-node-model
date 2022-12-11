@@ -84,7 +84,7 @@ Currently IPFS is being used to pin the NFT's metadata assets for storage. The c
 - Every node needs to have adequate storage to hold required assets
 - Nodes aren't held one to one accountable for assets being stored
 
-##### New Way - Arweave
+#### New Way - Arweave
 
 Is to move the current NFT assets over to Arweave. This will be a pretty massive uplift development wise but the end result would be significantly better for the ecosystem. This shifts the NFT asset storage responsibility away from node operators and to Arweave. The cost for permanent storage is also minimal compared to requiring all nodes to operate an IPFS node.
 
