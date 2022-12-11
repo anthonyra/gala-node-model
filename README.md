@@ -12,7 +12,7 @@
 #### Workload Nodes - (aka game specific) 
 - Unlimited supply
 - One basic basic game workload per node
-- Can switch which game workload is running at anytime
+- Can switch to a different game workload at anytime
 - Flat fee
 - Ownership via NFT
 
