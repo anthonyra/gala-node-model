@@ -4,19 +4,20 @@
 
 - Supply: 50,000
 - Unlimited workloads per node (workload NFT not required)
+	- Only one basic workload per game (could run private and basic workloads)
 	- Owner needs to configure node to run the workloads (defaults to none)
 - Increasing price tier
 - Ownership via NFT
 
 #### Workload Nodes - (aka game specific) 
 - Unlimited supply
-- One workload per node
+- One basic workload per node
 - Flat fee
 - Ownership via NFT
 
 # Workloads
 
-## Games
+## Games - basic
 
 #### Examples
 - Last Expedition (private server)
@@ -24,7 +25,7 @@
 - Spidertanks
 
 #### Description
-The purpose and function of these workload nodes will depend on the game developers. But there should be a barebones minimum requirement, which is to function as the public servers for the game. The game developers can have more than one workload type for their games. An example would be Last Expeditions private server workload.
+The purpose and function of the basic game workload is to function as the public servers for the game. The basic game workload nodes are the only ones eligible for rewards as decribed below. The game developers can have more than one workload type for their games. An example would be Last Expeditions private server workload.
 
 #### Basic Function
 
