@@ -1,7 +1,6 @@
 # Node Types
 
-#### Founder Nodes
-(On-Demand workloads and playtest servers)
+#### Founder Nodes - (On-Demand workloads and playtest servers)
 
 - Supply: 50,000
 - Unlimited workloads per node (workload NFT not required)
@@ -9,8 +8,7 @@
 - Increasing price tier
 - Ownership via NFT
 
-#### Workload Nodes
-(aka game specific) 
+#### Workload Nodes - (aka game specific) 
 - Unlimited supply
 - One workload per node
 - Flat fee
@@ -69,7 +67,7 @@ Even though these workloads reside currently under the Gala Games ecosystem they
 
 # NFTs - storage of metadata assets
 
-##### Old Way - IPFS
+## Old Way - IPFS
 
 Currently IPFS is being used to pin the NFT's metadata assets for storage. The current implementation is KUBO IPFS which is a vanilla IPFS node ran in Docker. If IPFS is still wanted it should be upgraded to IPFS cluster to ensure all game workloads are pinning the same asset pinsets. With that being said, I feel a better approach would be to rip IPFS out of the nodes and pivot to Arweave.
 
@@ -84,7 +82,7 @@ Currently IPFS is being used to pin the NFT's metadata assets for storage. The c
 - Every node needs to have adequate storage to hold required assets
 - Nodes aren't held one to one accountable for assets being stored
 
-#### New Way - Arweave
+## New Way - Arweave
 
 Is to move the current NFT assets over to Arweave. This will be a pretty massive uplift development wise but the end result would be significantly better for the ecosystem. This shifts the NFT asset storage responsibility away from node operators and to Arweave. The cost for permanent storage is also minimal compared to requiring all nodes to operate an IPFS node.
 
