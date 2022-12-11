@@ -26,7 +26,9 @@
 - Spidertanks
 
 #### Description
-The purpose and function of the basic game workload is to function as the public servers for the game. The basic game workload nodes are the only ones eligible for rewards as decribed below. The game developers can have more than one workload type for their games. An example would be Last Expeditions private server workload.
+The purpose and function of the basic game workload is to function as the public servers for the game. The game developers can have more than one workload type for their games. An example would be Last Expeditions private server workload.
+
+> **NOTE** - The basic game workload nodes are the only ones eligible for rewards 
 
 #### Basic Function
 
