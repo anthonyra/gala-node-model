@@ -19,6 +19,8 @@
 # Workloads
 
 ## Games
+
+#### Examples
 - Last Expedition (private server)
 - Town Star
 - Spidertanks
@@ -46,6 +48,8 @@ Nodes will only be rewarded for the work **they** do. Meaning, that for a node t
 > **NOTE** - There won't be any pool distributions.
 
 ## Gyri
+
+#### Types
 - Main Channel (asset channel)
 - Game Channel
 
