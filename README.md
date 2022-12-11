@@ -11,13 +11,14 @@
 
 #### Workload Nodes - (aka game specific) 
 - Unlimited supply
-- One basic workload per node
+- One basic basic game workload per node
+- Can switch which game workload is running at anytime
 - Flat fee
 - Ownership via NFT
 
 # Workloads
 
-## Games - basic
+## Basic Game - (public server)
 
 #### Examples
 - Last Expedition (private server)
