@@ -4,7 +4,7 @@
 
 - Supply: 50,000
 - Unlimited workloads per node (workload NFT not required)
-	- Only one basic game workload per game (could run private and basic workloads)
+	- Only one basic game workload per game
 	- Owner needs to configure node to run the workloads (defaults to none)
 - Increasing price tier
 - Ownership via NFT
