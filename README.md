@@ -81,7 +81,7 @@ Currently IPFS is being used to pin the NFT's metadata assets for storage. The c
 - No limit on storage except based on hardware installed on
 
 **Cons**
-- Requires every node to have minimum requires specifically for IPFS operation
+- Requires every node to run the minimum required specs for IPFS
 	- 2 GB of RAM and 2 CPU cores
 - Every node needs to have adequate storage to hold required assets
 - Nodes aren't held one to one accountable for assets being stored
